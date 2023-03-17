@@ -3,7 +3,8 @@ welcome to sharpener
 python mixture
 javascript style
 lets learn new
-
+R language
+sql
 
 thank you
 no thanks
